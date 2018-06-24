@@ -13,4 +13,9 @@
         android:icon="@drawable/ic_contacts"
         android:title="@string/action_contacts"
         app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_gallery"
+        android:icon="@drawable/ic_gallery"
+        android:title="Wyszukaj zdjecie"
+        app:showAsAction="ifRoom"/>
 </menu>
